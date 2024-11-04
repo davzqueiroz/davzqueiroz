@@ -1,6 +1,6 @@
 ## 👋 Hi there, my name is Davi and welcome to my github profile.
 
-![goldenprogramming](https://github.com/user-attachments/assets/e23e75c8-7111-4d95-84d4-e534d58d4812)
+![goldenprogramming](https://github.com/user-attachments/assets/8c4e22fc-5155-4585-b9cb-7bdb7601f9c4)
 
 
 ## 🔧 Tools and Technologies 💻
