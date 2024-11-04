@@ -1,6 +1,7 @@
 ## 👋 Hi there, my name is Davi and welcome to my github profile.
 
-<div class="tenor-gif-embed" data-postid="25847538" data-share-method="host" data-aspect-ratio="1.64103" data-width="100%"><a href="https://tenor.com/view/dog-gif-25847538">Dog GIF</a>from <a href="https://tenor.com/search/dog-gifs">Dog GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+
+https://github.com/user-attachments/assets/f281ec92-2d16-47cb-82e6-c0ff35cf7a8f
 
 
 ## 🔧 Tools and Technologies 💻
