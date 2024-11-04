@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" />
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" width=40 height=40/>
 
 
 
